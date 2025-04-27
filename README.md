@@ -1,4 +1,4 @@
 ### Nice to meet you! 👋
-I am a student of the Bachelor Degree in Telecommunication Technologies Engineering. 
+I am a Telecommunications Technology Engineer. 
 
-Here you can see my first steps coding.
+Here you will find my academic and individual projects. I invite you to take a look!
